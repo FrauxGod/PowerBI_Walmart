@@ -10,8 +10,8 @@ The Walmart Sales Visualization Dashboard provides detailed insights into Walmar
 
 
 
-3) Objectives
-- ## Track overall sales performance over time. ##
+3) ### Objectives ###
+- Track overall sales performance over time.
 - Analyze the impact of holidays on sales volumes.
 - Compare sales across different stores and regions.
 - Study correlations between fuel prices, unemployment rates, and sales.
