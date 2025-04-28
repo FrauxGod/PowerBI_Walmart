@@ -10,14 +10,14 @@ The Walmart Sales Visualization Dashboard provides detailed insights into Walmar
 
 
 
-3) Objectives
+3) Objectives <br />
 - Track overall sales performance over time.
 - Analyze the impact of holidays on sales volumes.
 - Compare sales across different stores and regions.
 - Study correlations between fuel prices, unemployment rates, and sales.
 - Identify seasonal trends and optimize inventory and marketing strategies.
 
-
+<br />
 4) Key Performance Indicators (KPIs):
 - Total Sales: Total revenue generated over the selected time period.
 - Average Weekly Sales: Mean weekly sales performance across stores.
