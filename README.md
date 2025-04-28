@@ -28,7 +28,7 @@ The Walmart Sales Visualization Dashboard provides detailed insights into Walmar
 - Average Temperature: Average temperature influencing store footfall and sales.
 
 
-5) ## Visualizations (Charts)##
+5) ## Visualizations (Charts) ##
 - Holiday and Sum by Holiday Flag: Donut chart showing sales distribution during holidays versus non-holidays.
 - Sum of Weekly Sales by Store: Bar chart displaying individual store performance.
 - Sum of Weekly Sales by Year and Quarter: Line graph depicting trends across years and quarters.
