@@ -1,7 +1,7 @@
 # PowerBI_Walmart
 
 
-1) Introduction <br />
+1) ## Introduction ## <br />
 The Walmart Sales Visualization Dashboard provides detailed insights into Walmart’s sales trends, store performance, and external factors impacting sales such as fuel prices, unemployment, and holidays. It empowers stakeholders to monitor KPIs, understand seasonality, and make informed strategic decisions to boost revenue.
 
 
@@ -18,7 +18,7 @@ The Walmart Sales Visualization Dashboard provides detailed insights into Walmar
 - Identify seasonal trends and optimize inventory and marketing strategies.
 
 
-4) Key Performance Indicators (KPIs):
+4) ## Key Performance Indicators (KPIs) ##
 - Total Sales: Total revenue generated over the selected time period.
 - Average Weekly Sales: Mean weekly sales performance across stores.
 - Average Monthly Sales: Mean monthly sales figures.
@@ -28,7 +28,7 @@ The Walmart Sales Visualization Dashboard provides detailed insights into Walmar
 - Average Temperature: Average temperature influencing store footfall and sales.
 
 
-5) Visualizations (Charts)
+5) ## Visualizations (Charts)##
 - Holiday and Sum by Holiday Flag: Donut chart showing sales distribution during holidays versus non-holidays.
 - Sum of Weekly Sales by Store: Bar chart displaying individual store performance.
 - Sum of Weekly Sales by Year and Quarter: Line graph depicting trends across years and quarters.
@@ -36,7 +36,7 @@ The Walmart Sales Visualization Dashboard provides detailed insights into Walmar
 - Sum of Weekly Sales by Unemployment (Bins): Bar chart analyzing how unemployment levels correlate with sales figures.
 
 
-6) Filters
+6) ## Filters ##
 - Date Filter: Select custom date ranges to focus on specific periods.
 - Year Filter: Filter data year-wise.
 - Holiday Filter: Analyze sales data during holiday versus non-holiday periods.
